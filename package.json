@@ -4,7 +4,7 @@
 	"description": "Tools to help with the development in Keystone",
 	"version": "0.0.1",
 	"publisher": "gwersebe",
-	"repository": "https://github.com/Microsoft/vscode-extension-samples/helloworld-sample",
+	"repository": "https://github.com/gwersebe/Corelation-Keystone-Tools",
 	"engines": {
 		"vscode": "^1.74.0"
 	},
